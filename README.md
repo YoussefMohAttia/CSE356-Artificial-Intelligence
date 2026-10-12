@@ -1,8 +1,8 @@
 <div align="center">
 
-# CSE356 Artificial Intelligence
+# AI Algorithms Collection
 
-### Search, Adversarial Game Playing, and Reinforcement Learning Coursework
+### Search, Adversarial Game Playing, and Reinforcement Learning
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains three Artificial Intelligence course projects, each focused on a core AI method: informed search, adversarial search, and Markov decision processes.
+This repository brings together three Artificial Intelligence implementations, each focused on a core method: informed search, adversarial search, and Markov decision processes.
 
 ## Projects
 
